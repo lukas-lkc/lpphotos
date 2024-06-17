@@ -7,6 +7,30 @@
     /*cor de todas as fontes que não tiverem atributo de cor própria*/
 }
 
+#img-1 {
+    background-image: url('../img/birdA.jpg');
+}
+
+#img-2 {
+    background-image: url('../img/_MG_8673-Aprimorado-NR.jpg');
+}
+
+#img-3 {
+    background-image: url('../img/_MG_8330.jpg');
+}
+
+#img-4 {
+    background-image: url('../img/moon.jpg');
+}
+
+#img-5 {
+    background-image: url('../img/_MG_9656.JPG');
+}
+
+#img-6 {
+    background-image: url('../img/_MG_9157.jpg');
+}
+
 :root {
     --color-white: #fff;
     --color-dark1: #272727;
@@ -104,30 +128,6 @@
     background-size: cover;
     /*tenta mostrar o max possível da imagem na área definida*/
     background-color: gray;
-}
-
-#img-1 {
-    background-image: url('../img/tenis1.jpg');
-}
-
-#img-2 {
-    background-image: url('../img/tenis2.jpg');
-}
-
-#img-3 {
-    background-image: url('../img/tenis3.jpg');
-}
-
-#img-4 {
-    background-image: url('../img/tenis4.jpg');
-}
-
-#img-5 {
-    background-image: url('../img/tenis5.jpg');
-}
-
-#img-6 {
-    background-image: url('../img/tenis6.jpg');
 }
 
 .product-text {
